@@ -1,6 +1,6 @@
 
 
-import ccxt from '../../ccxt.js';
+import ccxt from 'ccxt';
 import asciichart from 'asciichart';
 import asTable from 'as-table';
 import ololog from 'ololog'
